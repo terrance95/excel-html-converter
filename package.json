@@ -1,5 +1,5 @@
 {
-  "name": "port-nr-converter",
+  "name": "excel-html-converter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +7,9 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
     "xlsx": "^0.15.1"
+  },
+  "engines": {
+    "node": "12.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
